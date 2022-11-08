@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/Demo/static/css/main.e45fb457.css",
-    "main.js": "/Demo/static/js/main.6c80ac86.js",
-    "index.html": "/Demo/index.html",
-    "main.e45fb457.css.map": "/Demo/static/css/main.e45fb457.css.map",
-    "main.6c80ac86.js.map": "/Demo/static/js/main.6c80ac86.js.map"
+    "main.css": "/Imdb/static/css/main.5669813b.css",
+    "main.js": "/Imdb/static/js/main.dae1ddb5.js",
+    "static/js/787.40950247.chunk.js": "/Imdb/static/js/787.40950247.chunk.js",
+    "static/media/IMDB_Logo_2016.svg.png": "/Imdb/static/media/IMDB_Logo_2016.svg.b828441e9bf929c8e9bc.png",
+    "index.html": "/Imdb/index.html",
+    "main.5669813b.css.map": "/Imdb/static/css/main.5669813b.css.map",
+    "main.dae1ddb5.js.map": "/Imdb/static/js/main.dae1ddb5.js.map",
+    "787.40950247.chunk.js.map": "/Imdb/static/js/787.40950247.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e45fb457.css",
-    "static/js/main.6c80ac86.js"
+    "static/css/main.5669813b.css",
+    "static/js/main.dae1ddb5.js"
   ]
 }
